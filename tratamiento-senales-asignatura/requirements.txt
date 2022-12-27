@@ -7,4 +7,4 @@ opencv-python==4.1.0.25
 tensorflow==1.14.0
 jupyter==1.0.0
 pandas==0.25.0
-setuptools==41.0.0
+setuptools==65.5.1
